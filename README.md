@@ -159,7 +159,9 @@ public class AllTests {}
 
 ### 6.  Code Coverage
 - JaCoCo plugin was used to measure test coverage.
-- Achieved **more than 85%** test coverage across all classes.
+- Achieved **86%** test coverage across all classes.
 - Coverage report generated at:  
   `target/site/jacoco/index.html`
+![image](https://github.com/user-attachments/assets/e015b02a-fa55-44d3-860e-ea00a3cbe623)
+
 
