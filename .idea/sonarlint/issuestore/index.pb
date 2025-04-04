@@ -1,0 +1,32 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+T
+$src/main/najah/test/ProductTest.java,1\0\10e7f9c561ee2c4b9277e6fd6ac3074bd848a8ad
+W
+'src/main/najah/test/CalculatorTest.java,d\7\d76f4e6e829b85ac8666369fc3ce93e7a35ca043
+^
+.src/main/najah/test/UserServiceSimpleTest.java,5\4\5404afde82de1709f1b649ef83d2a7eb86b1e41c
+W
+'src/main/najah/test/RecipeBookTest.java,f\f\ff82ad5edd2342db29aaf5df0426cc45dc03ad5d
+S
+#src/main/najah/code/RecipeBook.java,5\5\5549f18c535248aab805bd38d0185f24d846691c
+T
+$src/main/najah/code/UserService.java,5\3\53452bc511b2f676af7d415f0769269f8af02f51
+S
+#src/main/najah/test/RecipeTest.java,2\5\25e892727220d1a00120c802ad30ada7e114e5d9
+S
+#src/main/najah/code/Calculator.java,0\c\0ced373a3998c6a77029d3b7bac9e2caa68d5353
+Q
+!src/main/najah/test/AllTests.java,a\a\aae0a902672f377a1c8f9464e9b53def6b249d89
+O
+src/main/najah/code/Recipe.java,7\b\7b5b8bd06916ec171cac74bc825bd0d0d8f74989
+P
+ src/main/najah/code/Product.java,b\e\bec0d823fc1eb15bdfac27c2663a7f4fd9056cd4
+X
+(src/main/najah/code/RecipeException.java,b\0\b0b23b4f8340163e90d9b8ff18b89dcfce71e227
+8
+.project,f\8\f8b41ce76d7b80d2b47e91b5f92c15f00eccf187
+:
+
+.classpath,3\5\354079a72b91a4280407c16a36f47d1986fd85a5
