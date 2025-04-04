@@ -128,4 +128,12 @@ public class RecipeTest {
         recipe.setName("cappuccino");
         assertEquals("cappuccino", recipe.getName());
     }
+    @Test
+    @Order(11)
+    @DisplayName("Test RecipeException message constructor")
+        // test custom exception message and ensure it is stored correctly
+    void test_recipe_exception_message() {
+        RecipeException ex = new RecipeException("Invalid input");
+        assertEquals("Invalid input", ex.getMessage());
+    }
 }
